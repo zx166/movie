@@ -1,2 +1,4 @@
-# movie
-movie
+✪ **本页网址 https://github.com/zx168/movie**        ✪ **主页网址 https://github.com/zx168/168**
+
+[![dawning](https://cloud.githubusercontent.com/assets/19641471/17002194/2cb6bc1e-4e98-11e6-9d86-2332ddd25a4c.jpg)](https://d3m8tmrewo7nyh.cloudfront.net/Dawning.mp4) [![huanxing](https://cloud.githubusercontent.com/assets/19641471/17002200/3361e750-4e98-11e6-996e-67a7a93b3ab4.jpg)](https://d3m8tmrewo7nyh.cloudfront.net/HuanXing.mp4) [![shanyuan](https://cloud.githubusercontent.com/assets/19641471/17002201/39bb8822-4e98-11e6-97cf-ad9f3d752a5f.jpg)](https://d3m8tmrewo7nyh.cloudfront.net/ShanYuan.mp4) [![journey](https://cloud.githubusercontent.com/assets/19641471/17002332/bf3cac06-4e98-11e6-8608-9d4439dee927.jpg)](https://d3m8tmrewo7nyh.cloudfront.net/Journey.mp4) [![zhuguang](https://cloud.githubusercontent.com/assets/19641471/17002207/422b0280-4e98-11e6-93cd-929b911eb40e.jpg)](https://d3m8tmrewo7nyh.cloudfront.net/ZhuGuang.mp4) [![thegift](https://cloud.githubusercontent.com/assets/19641471/17002212/45f87c62-4e98-11e6-88f0-4a0a7e296ac7.jpg)](https://d3m8tmrewo7nyh.cloudfront.net/TheGift.mp4) [![qiyuan1](https://cloud.githubusercontent.com/assets/19641471/17002215/49b2e4b4-4e98-11e6-8b36-77a6dde8e572.jpg)](https://d3m8tmrewo7nyh.cloudfront.net/QiYuan.mp4) 
+
